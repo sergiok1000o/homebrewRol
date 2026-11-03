@@ -1,4 +1,4 @@
-# Dumrakhal
+# Dumrakhal - The Silk Infestation
 
 - **System:** D&D 5e
 - **Level range:**

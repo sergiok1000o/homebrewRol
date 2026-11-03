@@ -8,7 +8,7 @@ Homebrew TTRPG content: one folder per campaign/adventure, with art, maps, PDFs 
 homebrewRol/
 ├── campaigns/
 │   ├── _template/          # Copy this to start a new campaign
-│   └── dumrakhal/          # One folder per campaign
+│   └── dumrakhal-silk-infestation/        # One folder per campaign
 │       ├── README.md       # Synopsis, level range, status, credits
 │       ├── art/
 │       │   ├── covers/     # Cover-*, Backcover-*
