@@ -18,8 +18,12 @@ homebrewRol/
 │       │   ├── monsters/   # Monster-*
 │       │   └── npcs/       # NPC-*
 │       ├── maps/
-│       │   ├── battle/     # Encounter / battle maps
-│       │   └── world/      # Regional / overview maps
+│       │   ├── source/     # Editable map files (.ds, etc.)
+│       │   │   ├── battle/ # Encounter / battle maps
+│       │   │   └── world/  # Regional / overview maps
+│       │   └── images/     # Exported pictures (.png, .jpg)
+│       │       ├── battle/
+│       │       └── world/
 │       ├── documents/      # Exported PDFs, handouts
 │       ├── homebrewery/    # Homebrewery markdown source (.md)
 │       └── notes/          # DM notes, session prep
